@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "keen-boulder-301518",
+  "private_key_id": "b6997655f5a2af6bd9d689a5c4573731216cd3d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0t9PgZ7IZOvMz\nDZu+DOV9wDCBIy6OuRa2ax5NINWKByHPUV32ZQNLmzPpaHXSah+yPA7/jGp6PfsO\njFOxt7fKdMySdI5cPWCjgjR9pqHi6w+bIdlSyh8Q79kqywhP+w87rhmTlmB7vE7w\nRLmPjkd369KnF9/jm4OXWimFvJlnJkxf4tk48PlDvvNoHpjd3S9VNZa2oFQIOCQf\n1ZL3WY11smPwVih9ZjPWx/OMkk6UC46KmWJNkS5BcoKyN0JJ1IRrU1y6Kd5izgM8\nWVl/UUGzq9pc7DRE0+BZezkvZuTBU4pPe0yvhida2KMX+QUXV1xniDByzTwxA2Ti\nqvUUtF1BAgMBAAECggEABRWJ3q2UJ10O8//9QnDC8RF729o1SFshLjMfyFw03bv7\nIcXAfrrTR6h/YqDndaq6Jw3E/0AAS92cB0n/3cdVIps8GR+x1Jr+ccMrPmC2e7eQ\nuhTO9CMPEi8pPSi2nGdsA4oPmqUXpEuFLgHE9aqzTIakJ8LGb/UTU+n7spE+gJYZ\nYkSwJvBSThpniKltdog9FxtV7y7sFHUFiNBH5gmTkHz8blSwDeVVUidVaH4VkS+u\nQCu89JPuE289uwlGEzjFaZp0c+PPr2pPT9bJ6ia2CX5V8sfS0sYtbrT5zEKQoXfH\nmagfGb9iPBqsBta0nbRro0DWZg/h6woBZnpbAyholQKBgQDe5Z4hM/Db6btxflmg\nsADJWz9rJK0avDyUdInZE/pOxiVwdrqy6Q+wMPfvoU2GGJfgmOacw09u8GtL6Htl\nYysjni+bLPCNKPXHjcroWtURKnED+s5fJjJwmYSZaT9wIr8wtq+1X375yztt2Rca\n2M32RYjb7RY8toCyIXoQJ5BUdQKBgQDPjpl/Ci0aIkWmNmsnC7YPN9z2s4lQ6uoI\na3yAZVY0pSFJPR9qQHR5pwptQkrZdBfgFrPmTIU0sjZLirswGyHy0R2ACYZvxpE3\nQLbPtLrsKPTvkWQcDqDaOilxDcijTWagAFg+Fipg1QQcSUxq1FkaFvZjW7WK9jMT\n4XjjU+YcHQKBgFo79JcWcuRkK9jXQKt3dOoPAY57a4SOPawPvZpepw9q0c9EkXJK\nPWqjeEvPLhYiMKHg5EMEIk0UESvKsuGpktY5fKZCPCO5OD6P3VvRIb5wQw5MY21L\nhlHlJDQC0oav2lx7KIixXzL6nlVq9BqPOFoBblUyFrV/YHw8ZzDRA3HdAoGBAKq/\nKvNh0bzAGQAloHzcm4dlc3fYNszElIccta2CsCpa9kkj6WYlZCx4CJHdiWneoY2N\n361Dogm52gTHOjrW91SkR1p/e4MUnX4Q1NOGYIfLIcS7nNmgBx+/3TvOFRKSqCxU\nXEOnRHGoi9shSaZQzoQyA7u1RGHvLBHc2PBaouDZAoGAYEpU6IDgTBKTRh13lW/r\nkTpBSpz62LQhFbIMvKtEK2BEJ6jHxS9FYlLjVTKkVfZ13UMWRzu2QTd3h1M8sOjE\nr6zkJeSPuPq1EKq+N+O7MdrCrtluTUo5uDdnLTCD8Q2DPygfyQfUuPsPRrLl/f/C\nfAkSidM00MJQN7GkF11utoM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbottelegram@keen-boulder-301518.iam.gserviceaccount.com",
+  "client_id": "102557896240017796583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbottelegram%40keen-boulder-301518.iam.gserviceaccount.com"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chatbottelegram",
+  "version": "1.0.0",
+  "description": "Construindo um ChatbotFit no Telegram com JavaScript e NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrmagalhaes/chatBotTelegram-js.git"
+  },
+  "author": "Lucas Magalhães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrmagalhaes/chatBotTelegram-js/issues"
+  },
+  "homepage": "https://github.com/lucasrmagalhaes/chatBotTelegram-js#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}

@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lucasrmagalhaes/chatBotTelegram-js#readme",
   "dependencies": {
+    "dialogflow": "^4.0.3",
+    "install": "^0.13.0",
     "node-telegram-bot-api": "^0.51.0"
   }
 }

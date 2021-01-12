@@ -28,5 +28,19 @@
 </p>
 
 <p align="left">
-    <a href="https://dialogflow.cloud.google.com/#/newAgent">Dialogflow - New Agent</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dialogflow.cloud.google.com/#/newAgent">Dialogflow - New Agent</a>
 </p>
+
+<hr />
+
+<p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://console.cloud.google.com/">Google Cloud</a> <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contas de Serviço
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Criar a conta com a chave JSON
+</p>
+
+<p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.npmjs.com/package/dialogflow">dialogflow</a> <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm i install dialogflow --save
+</p>
+

@@ -1,4 +1,4 @@
-<h1 align="center">Construindo um ChatbotFit no Telegram com JavaScript e NodeJS</h1>
+<h2 align="center">Construindo um ChatbotFit no Telegram com JavaScript e NodeJS</h2>
 
 <p align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iniciando o projeto:

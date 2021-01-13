@@ -44,3 +44,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm i install dialogflow --save
 </p>
 
+<p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.npmjs.com/package/youtube-node">youtube-node</a> <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm install youtube-node --save
+</p>
+
+https://developers.google.com/youtube/v3/quickstart/nodejs
+Node.js Quickstart
+
+https://console.developers.google.com/flows/enableapi?apiid=youtube&pli=1
+Registre seu aplicativo no serviço YouTube Data API v3 no Console de API do Google

@@ -64,8 +64,7 @@
 <hr />
 
 <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developers.google.com/youtube/v3/quickstart/nodejs">youtube-node</a> <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Node.js Quickstart
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developers.google.com/youtube/v3/quickstart/nodejs">Node.js Quickstart</a>
 </p>
 
 <hr />
@@ -75,4 +74,3 @@
 </p>
 
 <hr />
-

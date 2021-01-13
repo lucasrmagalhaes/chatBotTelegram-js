@@ -24,7 +24,13 @@ async function sendMessage(chatId, message) {
 
     const response = await sessionClient.detectIntent(request);
     const result = ressponse[0].queryResult;
-    console.log(JSON.stringify(resul, null, 2));
+    
+    // Retornando o objeto para ser utilizado no arquivo index.js.
+    return { 
+        text: result.fulfillmentText, 
+        intent: result.intent.displayName, 
+        fields: result.parameters.fields 
+    };
 };
 
-sendMessage('129338123', 'oi');
+module.exports.sendMessage = sendMessage;

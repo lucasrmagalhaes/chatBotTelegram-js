@@ -27,8 +27,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teste de comunicação do Telegram com o código:
     <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iniciar conversa com o bot: <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/mybots 
-    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/mybots <br />
+    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acessar o bot e rodar o comando: <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/start
 </p>

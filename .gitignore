@@ -72,6 +72,10 @@ typings/
 .env
 .env.test
 
+# Arquivos de credenciais (use os arquivos *.example.json como modelo)
+dio-chatbot-fit/yt-config.json
+dio-chatbot-fit/dio-bot-fit.json
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 

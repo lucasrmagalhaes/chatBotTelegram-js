@@ -1,5 +1,23 @@
 <h2 align="center">Construindo um ChatbotFit no Telegram com JavaScript e NodeJS</h2>
 
+<h5 align="center">Configuração</h5>
+
+<p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As credenciais não são versionadas. Antes de rodar o bot, dentro de <code>dio-chatbot-fit/</code>:
+</p>
+
+<ol>
+    <li>Copie <code>yt-config.example.json</code> para <code>yt-config.json</code> e preencha o campo <code>key</code> com a sua chave da YouTube Data API v3.</li>
+    <li>Copie <code>dio-bot-fit.example.json</code> para <code>dio-bot-fit.json</code> e preencha com o JSON da sua conta de serviço do Google Cloud (Dialogflow).</li>
+    <li>Defina a variável de ambiente <code>TELEGRAM_BOT_TOKEN</code> com o token gerado pelo @botfather.</li>
+</ol>
+
+<pre>set TELEGRAM_BOT_TOKEN=seu_token   # Windows (cmd)
+export TELEGRAM_BOT_TOKEN=seu_token  # Linux/macOS
+node index.js</pre>
+
+<hr />
+
 <p align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iniciando o projeto:
 </p>

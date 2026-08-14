@@ -3,8 +3,13 @@ const TelegramBot = require('node-telegram-bot-api');
 const dialogflow = require('./dialogflow');
 const youtube = require('./youtube');
 
-// Token recebido pelo @botfather.
-const token = '1558287466:AAEEL0WNZ9GTmy362iYZRnyA0BWoaTbnMNU';
+// Token recebido pelo @botfather (definido via variável de ambiente).
+const token = process.env.TELEGRAM_BOT_TOKEN;
+
+if (!token) {
+    console.error('Defina a variável de ambiente TELEGRAM_BOT_TOKEN antes de iniciar o bot.');
+    process.exit(1);
+}
 
 // Nova instância do Telegram.
 const bot = new TelegramBot(token, { polling: true });

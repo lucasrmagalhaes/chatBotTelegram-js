@@ -23,7 +23,7 @@ async function sendMessage(chatId, message) {
     }
 
     const response = await sessionClient.detectIntent(request);
-    const result = ressponse[0].queryResult;
+    const result = response[0].queryResult;
     
     // Retornando o objeto para ser utilizado no arquivo index.js.
     return { 
